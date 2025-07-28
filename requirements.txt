@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+nltk
+xgboost
+optuna
+sentence-transformers
